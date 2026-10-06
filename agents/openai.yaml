@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill PM"
+  short_description: "Pressure-test a task and choose the right next move"
+  default_prompt: "Use $grill-pm to review this task and decide whether to proceed, test the pivotal assumption more cheaply, or resolve a missing decision."
